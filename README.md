@@ -12,7 +12,9 @@ A simple Flutter calculator app built using Dart.
 
 ## 📸 Screenshot
 ![Screen1](1.png)
+# Light Theme
 ![Screen1](2.png)
+# Dark Theme
 ![Screen1](3.png)
 
 ## 🚀 Tech Used
